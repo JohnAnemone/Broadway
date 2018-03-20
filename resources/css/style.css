@@ -36,7 +36,12 @@ p {
   color: black;
 }
 
-footer {
+footer,
+nav {
   text-align: left;
   background-color: dimgray;
+}
+
+nav {
+  display: block;
 }
