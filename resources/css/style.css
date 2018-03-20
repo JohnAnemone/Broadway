@@ -19,27 +19,41 @@ h1 {
   font-weight: bold;
 }
 
+a {
+  font-size: 18px;
+}
+
 .dsn {
   font-size: 23px;
   font-weight: bold;
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png")
 }
 
+h2 {
+  font-size: 32px;
+}
+
+h3 {font-size: 23px;}
+
 h2,
 h3, {
   color: black;
-  font-size: 32px;
   font-weight: bold;
 }
 
 p {
   color: black;
+  font-size: 14px;
 }
 
 footer,
 nav {
   text-align: left;
   background-color: dimgray;
+}
+
+.cc {
+  font-size: 11px;
 }
 
 nav {
